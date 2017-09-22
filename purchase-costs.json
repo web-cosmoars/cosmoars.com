@@ -1,0 +1,58 @@
+{
+  "product": {
+     "price": { 
+       "USD": 39.00, "BRL": 132.6
+     }
+   }, 
+
+  "exchange_rate": { "BRL": 1.0, "USD": 3.40 },
+
+  "shipping": {
+     "regions": [ 
+       {
+         "name": "Brasil",
+         "currency": "BRL",
+         "delivery_options": [ 
+           { "name": "SEDEX", "currency": "BRL", "ammount": 19.00 },
+           { "name": "Modico", "currency": "BRL", "ammount": 19.60 }
+         ]
+       },
+ 
+       {
+         "name": "Europe",
+         "currency": "USD",
+         "delivery_options": [ 
+           { "name": "Express", "currency": "BRL", "ammount": 186.00 },
+           { "name": "Economic", "currency": "BRL", "ammount": 122.00 }
+         ]
+       },
+ 
+       {
+         "name": "North & Central America",
+         "currency": "USD",
+         "delivery_options": [ 
+           { "name": "Express", "currency": "BRL", "ammount": 162.00 },
+           { "name": "Economic", "currency": "BRL", "ammount": 122.00 }
+         ]
+       },
+
+       {
+         "name": "Africa, Asia & Oceania",
+         "currency": "USD",
+         "delivery_options": [ 
+           { "name": "Express", "currency": "BRL", "ammount": 286.00 },
+           { "name": "Economic", "currency": "BRL", "ammount": 141.00 }
+         ]
+       },
+
+       {
+         "name": "South America",
+         "currency": "USD",
+         "delivery_options": [ 
+           { "name": "Express", "currency": "BRL", "ammount": 135.00 },
+           { "name": "Economic", "currency": "BRL", "ammount": 114.00 }
+         ]
+       }
+    ]
+  }
+}
