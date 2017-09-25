@@ -155,7 +155,7 @@
            ]
          },
          {
-           "name": "Ceara",
+           "name": "Ceará",
            "delivery_options": [ 
              { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
              { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
@@ -232,7 +232,7 @@
            ]
          },
          {
-           "name": "Pará",
+           "name": "Roraima",
            "delivery_options": [ 
              { "name": "SEDEX", "currency": "BRL", "ammount": 104.80 },
              { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
