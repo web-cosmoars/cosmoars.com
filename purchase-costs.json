@@ -13,8 +13,7 @@
          "name": "Brasil",
          "currency": "BRL",
          "delivery_options": [ 
-           { "name": "SEDEX", "currency": "BRL", "ammount": 19.00 },
-           { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           { "name": "Econômico", "currency": "BRL", "ammount": 19.60  }
          ]
        },
  
@@ -56,7 +55,196 @@
     ],
 
     "subregions": {
-      "Brazil": [
+      "Brasil": [
+         {
+           "name": "Distrito Federal",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 35.00 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Espírito Santo",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 35.00 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Minas Gerais",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 35.00 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Paraná",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 35.00 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "São Paulo",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 35.00 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Goias",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 48.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Mato Grosso do SUl",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 48.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Rio Grande do Sul",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 48.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Santa Catarina",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 48.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Bahia",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 62.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Mato Grosso",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 62.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Sergipe",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 62.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Tocantins",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 62.90 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Alagoas",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Ceara",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Maranhão",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Paraíba",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Pernambuco",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Piauí",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Rio Grande do Norte",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Rondônia",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 73.40 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Amapá",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 87.30 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Amazonas",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 87.30 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Pará",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 87.30 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Acre",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 104.80 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Pará",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 104.80 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         },
+         {
+           "name": "Rio de Janeiro",
+           "delivery_options": [ 
+             { "name": "SEDEX", "currency": "BRL", "ammount": 23.30 },
+             { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
+           ]
+         }
        ]
     } 
   }
