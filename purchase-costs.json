@@ -14,7 +14,7 @@
          "currency": "BRL",
          "delivery_options": [ 
            { "name": "SEDEX", "currency": "BRL", "ammount": 19.00 },
-           { "name": "Modico", "currency": "BRL", "ammount": 19.60 }
+           { "name": "Econômico", "currency": "BRL", "ammount": 19.60 }
          ]
        },
  
@@ -53,6 +53,11 @@
            { "name": "Economic", "currency": "BRL", "ammount": 114.00 }
          ]
        }
-    ]
+    ],
+
+    "subregions": {
+      "Brazil": [
+       ]
+    } 
   }
 }
